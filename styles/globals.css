@@ -27,7 +27,7 @@ body {
     linear-gradient(90deg, var(--theme-border-bg) 3%, transparent 0),
     linear-gradient(1turn, var(--theme-border-bg) 3%, transparent 0);
   background-size: 20px 20px;
-  background-position: center;
+  background-position: center top;
 }
 
 *, *:before, *:after {
