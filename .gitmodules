@@ -1,0 +1,3 @@
+[submodule "lib/links"]
+	path = lib/links
+	url = https://github.com/miiiku/blog-links.git
